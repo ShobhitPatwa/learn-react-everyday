@@ -1,0 +1,5 @@
+episode2/node_modules
+episode1/node_modules
+episode2/dist
+episode2/.parcel-cache
+episode2/package-lock.json
